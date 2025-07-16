@@ -45,4 +45,4 @@ For questions, suggestions, or collaboration opportunities, please open an issue
 
 ## Author
 
-Developed by [
+Developed by [Yuvaraj987](https://github.com/Yuvaraj987)
