@@ -4,8 +4,8 @@ This repository aims to provide solutions and projects focused on leveraging mob
 
 ## Features
 
-- 📁 Accessible mobile applications
-- 📱 Assistive technology integrations
+- 📱 Accessible mobile applications
+- 🖥️ Assistive technology integrations
 - 🎨 User-centered design for impaired persons
 - 📁 Open-source code and resources
 
